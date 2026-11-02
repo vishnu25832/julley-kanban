@@ -1,4 +1,4 @@
-﻿# JulleyOnline â€“ Real-Time Collaborative Kanban Board
+﻿# JulleyOnline Real-Time Collaborative Kanban Board
 
 A full-stack, multi-tenant Kanban project management application that enables organizations and their branches to collaborate on tasks in real time. The platform includes role-based access control, live task synchronization, user presence, optimistic concurrency control, and task history with undo and redo.
 
